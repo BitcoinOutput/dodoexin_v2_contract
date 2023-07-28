@@ -684,9 +684,9 @@ anymatch@~3.1.1:
     picomatch "^2.0.4"
 
 arb-ethers-web3-bridge@^0.7.3:
-  version "0.7.2"
-  resolved "https://registry.npm.taobao.org/arb-ethers-web3-bridge/download/arb-ethers-web3-bridge-0.7.2.tgz#957d300244066465f21057dfbc94ca96a336118f"
-  integrity sha1-lX0wAkQGZGXyEFffvJTKlqM2EY8=
+  version "0.7.3"
+  resolved "https://registry.yarnpkg.com/arb-ethers-web3-bridge/-/arb-ethers-web3-bridge-0.7.3.tgz#a80cfeb8c61e46e2ae997e3dbba164e134104d63"
+  integrity sha512-dmnys5OU2RyLrVckNzC+NPR/BZDr38svO45vEaZ1oz2cEacKiVaU1g1bgjvJBQbM0jHaXVk7r7JL1U7xVcaA3A==
   dependencies:
     ethers-providers "^2.1.19"
     ethers-utils "^2.1.11"
@@ -3451,9 +3451,9 @@ home-or-tmp@^2.0.0:
     os-tmpdir "^1.0.1"
 
 http-cache-semantics@^4.0.0:
-  version "4.1.0"
-  resolved "https://registry.npm.taobao.org/http-cache-semantics/download/http-cache-semantics-4.1.0.tgz#49e91c5cbf36c9b94bcfcd71c23d5249ec74e390"
-  integrity sha1-SekcXL82yblLz81xwj1SSex045A=
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-4.1.1.tgz#abe02fcb2985460bf0323be664436ec3476a6d5a"
+  integrity sha512-er295DKPVsV82j5kw1Gjt+ADA/XYHsajl82cGNQG2eyoPkvgUhX+nDIyelzhIWbbsXP39EHcI6l5tYs2FYqYXQ==
 
 http-errors@1.7.2:
   version "1.7.2"
