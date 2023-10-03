@@ -35,7 +35,7 @@
     "babel-eslint": "^10.1.0",
     "bignumber.js": "^9.0.0",
     "chai-bignumber": "^3.0.0",
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "dotenv-flow": "^3.1.0",
     "es6-promisify": "^6.1.1",
     "ethereumjs-util": "^7.0.7",
