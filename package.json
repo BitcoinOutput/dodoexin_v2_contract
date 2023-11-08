@@ -48,7 +48,7 @@
     "typescript": "^3.9.5",
     "web3": "^1.2.8",
     "web3-core-helpers": "^1.2.8",
-    "web3-eth-contract": "^1.2.8"
+    "web3-eth-contract": "^1.10.3"
   },
   "devDependencies": {
     "@truffle/hdwallet-provider": "^1.0.36",
